@@ -1,0 +1,11 @@
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\netdxf-89022\TestDxfDocument\bin\Debug\sample binary.dxf
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\netdxf-89022\TestDxfDocument\bin\Debug\sample.dxf
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\netdxf-89022\TestDxfDocument\bin\Debug\image.jpg
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\netdxf-89022\TestDxfDocument\bin\Debug\TestDxfDocument.exe
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\netdxf-89022\TestDxfDocument\bin\Debug\TestDxfDocument.pdb
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\netdxf-89022\TestDxfDocument\bin\Debug\netDxf.dll
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\netdxf-89022\TestDxfDocument\bin\Debug\netDxf.pdb
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\netdxf-89022\TestDxfDocument\bin\Debug\netDxf.xml
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\netdxf-89022\TestDxfDocument\obj\Debug\TestDxfDocument.csprojResolveAssemblyReference.cache
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\netdxf-89022\TestDxfDocument\obj\Debug\TestDxfDocument.exe
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\netdxf-89022\TestDxfDocument\obj\Debug\TestDxfDocument.pdb

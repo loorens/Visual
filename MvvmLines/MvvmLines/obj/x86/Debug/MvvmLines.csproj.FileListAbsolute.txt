@@ -1,0 +1,14 @@
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\bin\Debug\MvvmLines.exe
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\bin\Debug\MvvmLines.pdb
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\obj\x86\Debug\MvvmLines.csprojResolveAssemblyReference.cache
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\obj\x86\Debug\App.g.cs
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\obj\x86\Debug\MvvmLines_MarkupCompile.cache
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\obj\x86\Debug\MvvmLines_MarkupCompile.lref
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\obj\x86\Debug\MainWindow.baml
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\obj\x86\Debug\MvvmLines.g.resources
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\obj\x86\Debug\MvvmLines.Properties.Resources.resources
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\obj\x86\Debug\MvvmLines.csproj.GenerateResource.Cache
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\obj\x86\Debug\MvvmLines.exe
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\obj\x86\Debug\MvvmLines.pdb

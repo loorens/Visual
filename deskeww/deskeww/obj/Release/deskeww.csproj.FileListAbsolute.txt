@@ -1,0 +1,8 @@
+C:\Users\Dominik\documents\visual studio 2013\Projects\deskeww\deskeww\bin\Release\deskeww.exe.config
+C:\Users\Dominik\documents\visual studio 2013\Projects\deskeww\deskeww\obj\Release\deskeww.Form1.resources
+C:\Users\Dominik\documents\visual studio 2013\Projects\deskeww\deskeww\obj\Release\deskeww.Properties.Resources.resources
+C:\Users\Dominik\documents\visual studio 2013\Projects\deskeww\deskeww\obj\Release\deskeww.csproj.GenerateResource.Cache
+C:\Users\Dominik\documents\visual studio 2013\Projects\deskeww\deskeww\bin\Release\deskeww.exe
+C:\Users\Dominik\documents\visual studio 2013\Projects\deskeww\deskeww\bin\Release\deskeww.pdb
+C:\Users\Dominik\documents\visual studio 2013\Projects\deskeww\deskeww\obj\Release\deskeww.exe
+C:\Users\Dominik\documents\visual studio 2013\Projects\deskeww\deskeww\obj\Release\deskeww.pdb

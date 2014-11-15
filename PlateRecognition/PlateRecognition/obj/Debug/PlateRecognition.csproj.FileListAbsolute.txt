@@ -1,0 +1,9 @@
+c:\users\dominik\documents\visual studio 2013\Projects\PlateRecognition\PlateRecognition\bin\Debug\PlateRecognition.exe.config
+c:\users\dominik\documents\visual studio 2013\Projects\PlateRecognition\PlateRecognition\bin\Debug\PlateRecognition.exe
+c:\users\dominik\documents\visual studio 2013\Projects\PlateRecognition\PlateRecognition\bin\Debug\PlateRecognition.pdb
+c:\users\dominik\documents\visual studio 2013\Projects\PlateRecognition\PlateRecognition\obj\Debug\PlateRecognition.csprojResolveAssemblyReference.cache
+c:\users\dominik\documents\visual studio 2013\Projects\PlateRecognition\PlateRecognition\obj\Debug\PlateRecognition.Form1.resources
+c:\users\dominik\documents\visual studio 2013\Projects\PlateRecognition\PlateRecognition\obj\Debug\PlateRecognition.Properties.Resources.resources
+c:\users\dominik\documents\visual studio 2013\Projects\PlateRecognition\PlateRecognition\obj\Debug\PlateRecognition.csproj.GenerateResource.Cache
+c:\users\dominik\documents\visual studio 2013\Projects\PlateRecognition\PlateRecognition\obj\Debug\PlateRecognition.exe
+c:\users\dominik\documents\visual studio 2013\Projects\PlateRecognition\PlateRecognition\obj\Debug\PlateRecognition.pdb

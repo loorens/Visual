@@ -1,0 +1,17 @@
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\Northwind\NorthWind.Application\bin\Debug\NorthWind.Application.dll.config
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\Northwind\NorthWind.Application\bin\Debug\NorthWind.Application.dll
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\Northwind\NorthWind.Application\bin\Debug\NorthWind.Application.pdb
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\Northwind\NorthWind.Application\bin\Debug\EntityFramework.dll
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\Northwind\NorthWind.Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\Northwind\NorthWind.Application\bin\Debug\EntityFramework.xml
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\Northwind\NorthWind.Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\Northwind\NorthWind.Application\obj\Debug\NorthWind.Application.csprojResolveAssemblyReference.cache
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\Northwind\NorthWind.Application\obj\Debug\NorthWind.Application.dll
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\Northwind\NorthWind.Application\obj\Debug\NorthWind.Application.pdb
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\Northwind\NorthWind.Application\bin\Debug\Northwind.Model.dll
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\Northwind\NorthWind.Application\bin\Debug\Northwind.Model.pdb
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\Northwind\NorthWind.Application\bin\Debug\StructureMap.dll
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\Northwind\NorthWind.Application\bin\Debug\StructureMap.Net4.dll
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\Northwind\NorthWind.Application\bin\Debug\StructureMap.pdb
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\Northwind\NorthWind.Application\bin\Debug\StructureMap.xml
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\Northwind\NorthWind.Application\bin\Debug\StructureMap.Net4.pdb

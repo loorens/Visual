@@ -1,0 +1,9 @@
+c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplication1\ClassLibrary1\bin\Debug\ConsoleApplication1.exe
+c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplication1\ClassLibrary1\bin\Debug\nunit.framework.dll
+c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplication1\ClassLibrary1\bin\Debug\ConsoleApplication1.pdb
+c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplication1\ClassLibrary1\bin\Debug\nunit.framework.xml
+c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplication1\ClassLibrary1\obj\Debug\TestingClass.csprojResolveAssemblyReference.cache
+c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

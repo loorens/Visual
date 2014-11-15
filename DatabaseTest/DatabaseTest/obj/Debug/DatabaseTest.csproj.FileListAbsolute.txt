@@ -1,0 +1,9 @@
+c:\users\dominik\documents\visual studio 2013\Projects\DatabaseTest\DatabaseTest\bin\Debug\DatabaseTest.exe.config
+c:\users\dominik\documents\visual studio 2013\Projects\DatabaseTest\DatabaseTest\bin\Debug\DatabaseTest.exe
+c:\users\dominik\documents\visual studio 2013\Projects\DatabaseTest\DatabaseTest\bin\Debug\DatabaseTest.pdb
+c:\users\dominik\documents\visual studio 2013\Projects\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.csprojResolveAssemblyReference.cache
+c:\users\dominik\documents\visual studio 2013\Projects\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.Form1.resources
+c:\users\dominik\documents\visual studio 2013\Projects\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.Properties.Resources.resources
+c:\users\dominik\documents\visual studio 2013\Projects\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.csproj.GenerateResource.Cache
+c:\users\dominik\documents\visual studio 2013\Projects\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.exe
+c:\users\dominik\documents\visual studio 2013\Projects\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.pdb

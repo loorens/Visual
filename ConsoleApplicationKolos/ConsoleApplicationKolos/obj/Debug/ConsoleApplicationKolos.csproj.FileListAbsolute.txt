@@ -1,0 +1,6 @@
+c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplicationKolos\ConsoleApplicationKolos\bin\Debug\ConsoleApplicationKolos.exe.config
+c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplicationKolos\ConsoleApplicationKolos\obj\Debug\ConsoleApplicationKolos.csprojResolveAssemblyReference.cache
+c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplicationKolos\ConsoleApplicationKolos\bin\Debug\ConsoleApplicationKolos.exe
+c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplicationKolos\ConsoleApplicationKolos\bin\Debug\ConsoleApplicationKolos.pdb
+c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplicationKolos\ConsoleApplicationKolos\obj\Debug\ConsoleApplicationKolos.exe
+c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplicationKolos\ConsoleApplicationKolos\obj\Debug\ConsoleApplicationKolos.pdb

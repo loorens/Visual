@@ -1,0 +1,9 @@
+c:\users\dominik\documents\visual studio 2013\Projects\DrzewoDecyzyjne\DrzewoDecyzyjne\bin\Debug\DrzewoDecyzyjne.exe.config
+c:\users\dominik\documents\visual studio 2013\Projects\DrzewoDecyzyjne\DrzewoDecyzyjne\bin\Debug\DrzewoDecyzyjne.exe
+c:\users\dominik\documents\visual studio 2013\Projects\DrzewoDecyzyjne\DrzewoDecyzyjne\bin\Debug\DrzewoDecyzyjne.pdb
+c:\users\dominik\documents\visual studio 2013\Projects\DrzewoDecyzyjne\DrzewoDecyzyjne\obj\Debug\DrzewoDecyzyjne.csprojResolveAssemblyReference.cache
+c:\users\dominik\documents\visual studio 2013\Projects\DrzewoDecyzyjne\DrzewoDecyzyjne\obj\Debug\DrzewoDecyzyjne.Form1.resources
+c:\users\dominik\documents\visual studio 2013\Projects\DrzewoDecyzyjne\DrzewoDecyzyjne\obj\Debug\DrzewoDecyzyjne.Properties.Resources.resources
+c:\users\dominik\documents\visual studio 2013\Projects\DrzewoDecyzyjne\DrzewoDecyzyjne\obj\Debug\DrzewoDecyzyjne.csproj.GenerateResource.Cache
+c:\users\dominik\documents\visual studio 2013\Projects\DrzewoDecyzyjne\DrzewoDecyzyjne\obj\Debug\DrzewoDecyzyjne.exe
+c:\users\dominik\documents\visual studio 2013\Projects\DrzewoDecyzyjne\DrzewoDecyzyjne\obj\Debug\DrzewoDecyzyjne.pdb

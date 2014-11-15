@@ -1,0 +1,6 @@
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\netdxf-89022\netDxf\bin\Debug\netDxf.xml
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\netdxf-89022\netDxf\bin\Debug\netDxf.dll
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\netdxf-89022\netDxf\bin\Debug\netDxf.pdb
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\netdxf-89022\netDxf\obj\Debug\netDxf.csprojResolveAssemblyReference.cache
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\netdxf-89022\netDxf\obj\Debug\netDxf.dll
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\netdxf-89022\netDxf\obj\Debug\netDxf.pdb

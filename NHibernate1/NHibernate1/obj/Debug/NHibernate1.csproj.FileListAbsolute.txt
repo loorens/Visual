@@ -1,0 +1,13 @@
+c:\users\dominik\documents\visual studio 2013\Projects\NHibernate1\NHibernate1\bin\Debug\NHibernate1.exe.config
+c:\users\dominik\documents\visual studio 2013\Projects\NHibernate1\NHibernate1\bin\Debug\NHibernate1.exe
+c:\users\dominik\documents\visual studio 2013\Projects\NHibernate1\NHibernate1\bin\Debug\NHibernate1.pdb
+c:\users\dominik\documents\visual studio 2013\Projects\NHibernate1\NHibernate1\obj\Debug\NHibernate1.csprojResolveAssemblyReference.cache
+c:\users\dominik\documents\visual studio 2013\Projects\NHibernate1\NHibernate1\obj\Debug\NHibernate1.exe
+c:\users\dominik\documents\visual studio 2013\Projects\NHibernate1\NHibernate1\obj\Debug\NHibernate1.pdb
+C:\Users\Dominik\documents\visual studio 2013\Projects\NHibernate1\NHibernate1\bin\Debug\Iesi.Collections.dll
+C:\Users\Dominik\documents\visual studio 2013\Projects\NHibernate1\NHibernate1\bin\Debug\NHibernate.dll
+C:\Users\Dominik\documents\visual studio 2013\Projects\NHibernate1\NHibernate1\bin\Debug\nunit.framework.dll
+C:\Users\Dominik\documents\visual studio 2013\Projects\NHibernate1\NHibernate1\bin\Debug\Iesi.Collections.xml
+C:\Users\Dominik\documents\visual studio 2013\Projects\NHibernate1\NHibernate1\bin\Debug\NHibernate.xml
+C:\Users\Dominik\documents\visual studio 2013\Projects\NHibernate1\NHibernate1\bin\Debug\nunit.framework.xml
+C:\Users\Dominik\documents\visual studio 2013\Projects\NHibernate1\NHibernate1\bin\Debug\hibernate.cfg.xml

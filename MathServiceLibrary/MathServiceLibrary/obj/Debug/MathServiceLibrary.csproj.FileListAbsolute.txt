@@ -1,0 +1,6 @@
+c:\users\dominik\documents\visual studio 2013\Projects\MathServiceLibrary\MathServiceLibrary\bin\Debug\MathServiceLibrary.dll.config
+c:\users\dominik\documents\visual studio 2013\Projects\MathServiceLibrary\MathServiceLibrary\bin\Debug\MathServiceLibrary.dll
+c:\users\dominik\documents\visual studio 2013\Projects\MathServiceLibrary\MathServiceLibrary\bin\Debug\MathServiceLibrary.pdb
+c:\users\dominik\documents\visual studio 2013\Projects\MathServiceLibrary\MathServiceLibrary\obj\Debug\MathServiceLibrary.csprojResolveAssemblyReference.cache
+c:\users\dominik\documents\visual studio 2013\Projects\MathServiceLibrary\MathServiceLibrary\obj\Debug\MathServiceLibrary.dll
+c:\users\dominik\documents\visual studio 2013\Projects\MathServiceLibrary\MathServiceLibrary\obj\Debug\MathServiceLibrary.pdb

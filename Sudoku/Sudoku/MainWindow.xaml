@@ -1,0 +1,50 @@
+﻿<Window x:Class="SudokuFX.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:clr="clr-namespace:SudokuFX"
+        Title="MainWindow" Height="500" Width="800">
+    <Grid>
+        <DockPanel>
+            <DockPanel Margin="0" DockPanel.Dock="Top" Background="#FFE01515">
+        		<TextBlock FontSize ="36" HorizontalAlignment="Center"><Run Text="Super Sudoku"/></TextBlock>
+        	</DockPanel>
+            <StackPanel Background="Green" DockPanel.Dock ="Left" Width="100">
+                <Expander IsExpanded="True" Header="Main menu" >
+                    <StackPanel>
+                        <Button Content="Nowa gra"/>
+                        <Button Content="Wczytaj grę"/>
+                        <Button Content="Zapisz grę"/>
+                        <Button Content="Zamknij" Click="Button_Click"/>
+                    </StackPanel>
+                </Expander>
+                <Expander IsExpanded="True" Header="Ustawienia">
+                    <StackPanel>
+                        <TextBlock><Run Text="Rozmiar:"/></TextBlock>
+                        <ComboBox>
+                            <ComboBoxItem IsSelected="True" Content="3x3"/>
+                            <ComboBoxItem Content="6x6"/>
+                            <ComboBoxItem Content="9x9"/>
+                        </ComboBox>
+
+                        
+
+                    </StackPanel>
+                </Expander>
+            </StackPanel>
+            <StackPanel Background="Blue" DockPanel.Dock ="Right" Width="100">
+                <Expander Header="Sprawdz" IsExpanded="True">
+            		<StackPanel Background="#FFE5E5E5">
+            			<Button Content="Sprawdz"/>
+            			<Button Content="Pokaż błędy" Margin="0,0,-2,0"/>
+            			<Button Content="Rozwiąż"/>
+            		</StackPanel>
+            	</Expander>
+            </StackPanel>
+            <ListBox Background ="Gray" DockPanel.Dock="Bottom" Height="50"/>
+            <StackPanel>
+                <clr:SudokuBoard x:Name="Board" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5"/>
+            </StackPanel>
+            
+        </DockPanel>
+    </Grid>
+</Window>

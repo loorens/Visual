@@ -1,0 +1,6 @@
+c:\users\dominik\documents\visual studio 2013\Projects\PodzialObrazow\PodzialObrazow\bin\Debug\PodzialObrazow.exe.config
+c:\users\dominik\documents\visual studio 2013\Projects\PodzialObrazow\PodzialObrazow\bin\Debug\PodzialObrazow.exe
+c:\users\dominik\documents\visual studio 2013\Projects\PodzialObrazow\PodzialObrazow\bin\Debug\PodzialObrazow.pdb
+c:\users\dominik\documents\visual studio 2013\Projects\PodzialObrazow\PodzialObrazow\obj\Debug\PodzialObrazow.csprojResolveAssemblyReference.cache
+c:\users\dominik\documents\visual studio 2013\Projects\PodzialObrazow\PodzialObrazow\obj\Debug\PodzialObrazow.exe
+c:\users\dominik\documents\visual studio 2013\Projects\PodzialObrazow\PodzialObrazow\obj\Debug\PodzialObrazow.pdb
