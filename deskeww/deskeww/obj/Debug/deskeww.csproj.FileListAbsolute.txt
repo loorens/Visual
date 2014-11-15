@@ -1,9 +1,0 @@
-c:\users\dominik\documents\visual studio 2013\Projects\deskeww\deskeww\bin\Debug\deskeww.exe.config
-c:\users\dominik\documents\visual studio 2013\Projects\deskeww\deskeww\bin\Debug\deskeww.exe
-c:\users\dominik\documents\visual studio 2013\Projects\deskeww\deskeww\bin\Debug\deskeww.pdb
-c:\users\dominik\documents\visual studio 2013\Projects\deskeww\deskeww\obj\Debug\deskeww.csprojResolveAssemblyReference.cache
-c:\users\dominik\documents\visual studio 2013\Projects\deskeww\deskeww\obj\Debug\deskeww.csproj.GenerateResource.Cache
-c:\users\dominik\documents\visual studio 2013\Projects\deskeww\deskeww\obj\Debug\deskeww.exe
-c:\users\dominik\documents\visual studio 2013\Projects\deskeww\deskeww\obj\Debug\deskeww.pdb
-C:\Users\Dominik\documents\visual studio 2013\Projects\deskeww\deskeww\obj\Debug\Ocr.Form1.resources
-C:\Users\Dominik\documents\visual studio 2013\Projects\deskeww\deskeww\obj\Debug\Ocr.Properties.Resources.resources

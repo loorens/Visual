@@ -1,1 +1,0 @@
-c:\users\dominik\documents\visual studio 2013\Projects\deskew\deskew\bin\Debug\deskew.exe.config

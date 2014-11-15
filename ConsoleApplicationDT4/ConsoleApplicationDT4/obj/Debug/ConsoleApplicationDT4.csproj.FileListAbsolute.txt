@@ -1,6 +1,0 @@
-c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplicationDT4\ConsoleApplicationDT4\bin\Debug\ConsoleApplicationDT4.exe.config
-c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplicationDT4\ConsoleApplicationDT4\bin\Debug\ConsoleApplicationDT4.exe
-c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplicationDT4\ConsoleApplicationDT4\bin\Debug\ConsoleApplicationDT4.pdb
-c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplicationDT4\ConsoleApplicationDT4\obj\Debug\ConsoleApplicationDT4.csprojResolveAssemblyReference.cache
-c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplicationDT4\ConsoleApplicationDT4\obj\Debug\ConsoleApplicationDT4.exe
-c:\users\dominik\documents\visual studio 2013\Projects\ConsoleApplicationDT4\ConsoleApplicationDT4\obj\Debug\ConsoleApplicationDT4.pdb

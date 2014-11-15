@@ -1,6 +1,0 @@
-C:\Users\Dominik\Documents\Visual Studio 2013\Projects\ConsoleDT1\ConsoleApplicationCSharpLab2\bin\Release\ConsoleApplicationCSharpLab2.exe.config
-C:\Users\Dominik\Documents\Visual Studio 2013\Projects\ConsoleDT1\ConsoleApplicationCSharpLab2\bin\Release\ConsoleApplicationCSharpLab2.exe
-C:\Users\Dominik\Documents\Visual Studio 2013\Projects\ConsoleDT1\ConsoleApplicationCSharpLab2\bin\Release\ConsoleApplicationCSharpLab2.pdb
-C:\Users\Dominik\Documents\Visual Studio 2013\Projects\ConsoleDT1\ConsoleApplicationCSharpLab2\obj\Release\ConsoleApplicationCSharpLab2.csprojResolveAssemblyReference.cache
-C:\Users\Dominik\Documents\Visual Studio 2013\Projects\ConsoleDT1\ConsoleApplicationCSharpLab2\obj\Release\ConsoleApplicationCSharpLab2.exe
-C:\Users\Dominik\Documents\Visual Studio 2013\Projects\ConsoleDT1\ConsoleApplicationCSharpLab2\obj\Release\ConsoleApplicationCSharpLab2.pdb

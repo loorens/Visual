@@ -1,1 +1,0 @@
-c:\users\dominik\documents\visual studio 2013\Projects\MathWindowsServiceHost\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe.config
