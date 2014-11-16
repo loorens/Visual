@@ -81,7 +81,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Node.cs" />
-    <Compile Include="ObjectsDataSource.cs" />
+    <Compile Include="FakeDataSource.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>

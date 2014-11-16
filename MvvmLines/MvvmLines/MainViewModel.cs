@@ -51,8 +51,8 @@ namespace MvvmLines
 
         public MainViewModel()
         {
-            _nodes = new ObservableCollection<Node>(ObjectsDataSource.GetRandomNodes(10));
-            _lines = new ObservableCollection<Line>(ObjectsDataSource.GetRandomLines(_nodes));
+            _nodes = new ObservableCollection<Node>(FakeDataSource.GetRandomNodes(10));
+            _lines = new ObservableCollection<Line>(FakeDataSource.GetRandomLines(_nodes));
 
 
         }
