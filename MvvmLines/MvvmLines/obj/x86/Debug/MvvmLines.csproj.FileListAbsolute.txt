@@ -12,3 +12,5 @@ C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\obj\x
 C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\obj\x86\Debug\MvvmLines.csproj.GenerateResource.Cache
 C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\obj\x86\Debug\MvvmLines.exe
 C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\obj\x86\Debug\MvvmLines.pdb
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\obj\x86\Debug\DrawingPanel.g.cs
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\MvvmLines\MvvmLines\obj\x86\Debug\DrawingPanel.baml
