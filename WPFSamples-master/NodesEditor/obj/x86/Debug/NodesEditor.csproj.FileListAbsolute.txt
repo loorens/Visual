@@ -1,0 +1,26 @@
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\bin\Debug\NodesEditor.exe
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\bin\Debug\NodesEditor.pdb
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\NodesEditor.csprojResolveAssemblyReference.cache
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\Left Edition Panel\ButtonsPanel.baml
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\Left Edition Panel\ParametersEditor.baml
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\Left Edition Panel\ConnectorPropertyEditor.baml
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\Left Edition Panel\EditorStyles.baml
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\Left Edition Panel\NodePropertyEditor.baml
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\App.baml
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\Left Edition Panel\ButtonsPanel.g.cs
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\Left Edition Panel\ParametersEditor.g.cs
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\Left Edition Panel\ConnectorPropertyEditor.g.cs
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\Left Edition Panel\NodePropertyEditor.g.cs
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\App.g.cs
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\NodesEditor_MarkupCompile.cache
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\NodesEditor_MarkupCompile.lref
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\MainWindow.baml
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\NodesEditor.g.resources
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\NodesEditor.Properties.Resources.resources
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\NodesEditor.csproj.GenerateResource.Cache
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\NodesEditor.exe
+C:\Users\Dominik\Downloads\WPFSamples-master\WPFSamples-master\NodesEditor\obj\x86\Debug\NodesEditor.pdb
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\WPFSamples-master\NodesEditor\obj\x86\Debug\NodesEditor.exe
+C:\Users\Dominik\Documents\Visual Studio 2013\Projects\WPFSamples-master\NodesEditor\obj\x86\Debug\NodesEditor.pdb

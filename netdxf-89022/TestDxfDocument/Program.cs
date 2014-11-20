@@ -870,7 +870,7 @@ namespace TestDxfDocument
         private static void Test()
         {
             // sample.dxf contains all supported entities by netDxf
-            string file = "sample.dxf";
+            string file = "serce.dxf";
 
             // check if the dxf actually exists
             FileInfo fileInfo = new FileInfo(file);
